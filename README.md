@@ -12,6 +12,15 @@ An Emotion Detector that utilizes IBM Watson NLP to analyze text and identify em
   - Real-time emotion detection
   - Multi-emotion support
   - User-friendly interface
+ 
+### 2. [AI Translator](https://github.com/Tyeates82/ai-translator)
+An AI-powered Translator that uses IBM Watson Machine Learning and Watsonx to translate sentences from English to Spanish. This project integrates speech-to-text and text-to-speech functionalities, providing a seamless translation experience.
+
+- **Technologies Used:** Python, IBM Watson Machine Learning, Watsonx
+- **Features:**
+  - Speech-to-Text: Converts spoken English into text.
+  - Text-to-Speech: Converts translated text back into speech.
+  - Language Translation: Uses Watsonx to translate English sentences into Spanish.
 
 ## About Me
 
