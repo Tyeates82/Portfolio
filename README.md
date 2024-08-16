@@ -51,9 +51,9 @@ When I'm not coding, you can find me gaming, tinkering on various electronics, o
 
 ### Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/terry-yeates-b80772160)
-- **GitHub:** [Your GitHub Profile](https://github.com/Tyeates82)
-- **Email:** [Tyeates@yahoo.com](mailto:Tyeates@yahoo.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/terry-yeates-b80772160)
+- **GitHub:** [My GitHub Profile](https://github.com/Tyeates82)
+- **Email:** [My Email](mailto:Tyeates@yahoo.com)
 
 
 ## Contact
