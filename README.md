@@ -12,7 +12,7 @@ An Emotion Detector that utilizes IBM Watson NLP to analyze text and identify em
   - Real-time emotion detection
   - Multi-emotion support
   - User-friendly interface
- 
+
 ### 2. [AI Translator](https://github.com/Tyeates82/ai-translator)
 An AI-powered Translator that uses IBM Watson Machine Learning and Watsonx to translate sentences from English to Spanish. This project integrates speech-to-text and text-to-speech functionalities, providing a seamless translation experience.
 
@@ -21,6 +21,15 @@ An AI-powered Translator that uses IBM Watson Machine Learning and Watsonx to tr
   - Speech-to-Text: Converts spoken English into text.
   - Text-to-Speech: Converts translated text back into speech.
   - Language Translation: Uses Watsonx to translate English sentences into Spanish.
+
+### 3. [Image Captioning](https://github.com/Tyeates82/image-captioning)
+An Image Captioning tool that generates descriptive captions for images using a pre-trained model from Salesforce. This project demonstrates the use of deep learning to understand and describe visual content.
+
+- **Technologies Used:** Python, Gradio, NumPy, PIL, Transformers (Salesforce BLIP model)
+- **Features:**
+  - Automatic image caption generation
+  - Easy-to-use web interface
+  - Supports a variety of image formats
 
 ## About Me
 
@@ -39,7 +48,7 @@ Hi! I'm Terry Yeates, a passionate software developer with a background in infor
 
 ### Education
 
-- **Studied Software Engineering at Arizona State University
+- **Studied Software Engineering at Arizona State University**
   - Focus on Object-Oriented Programming
 
 ### Experience
@@ -63,6 +72,7 @@ When I'm not coding, you can find me gaming, tinkering on various electronics, o
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/terry-yeates-b80772160)
 - **GitHub:** [My GitHub Profile](https://github.com/Tyeates82)
 - **Email:** [My Email](mailto:Tyeates@yahoo.com)
+
 
 
 ## Contact
